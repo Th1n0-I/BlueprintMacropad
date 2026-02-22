@@ -1085,7 +1085,7 @@
 			(drill oval 2.8 1.5)
 			(layers "*.Cu" "*.Mask")
 			(remove_unused_layers no)
-			(uuid "eee61805-b13a-4077-80d6-9265f4eb13fc")
+			(uuid "c6228626-e50b-4f14-91bb-00d63775a56a")
 		)
 		(pad "S1" thru_hole circle
 			(at 14.5 5)
@@ -1129,7 +1129,7 @@
 		(descr "Add-on for regular MX-footprints with SK6812 MINI-E")
 		(tags "cherry MX SK6812 Mini-E rearmount rear mount led rgb backlight")
 		(property "Reference" "D16"
-			(at 0.6 -3.1 0)
+			(at 5.292501 0 90)
 			(layer "F.SilkS")
 			(uuid "5fa37a77-afe3-4461-a2d2-aafed2610aa3")
 			(effects
@@ -4055,7 +4055,7 @@
 		(descr "Add-on for regular MX-footprints with SK6812 MINI-E")
 		(tags "cherry MX SK6812 Mini-E rearmount rear mount led rgb backlight")
 		(property "Reference" "D18"
-			(at 0.6 -3.1 0)
+			(at 0.6 0 0)
 			(layer "F.SilkS")
 			(uuid "44e8fdc1-093f-4c91-9820-9b1d25ffeee2")
 			(effects
@@ -4440,7 +4440,7 @@
 		(descr "Add-on for regular MX-footprints with SK6812 MINI-E")
 		(tags "cherry MX SK6812 Mini-E rearmount rear mount led rgb backlight")
 		(property "Reference" "D15"
-			(at 0.6 -3.1 0)
+			(at 5.292501 0 90)
 			(layer "F.SilkS")
 			(uuid "e8c8c243-2e9d-4423-a2cf-92fcd98ee241")
 			(effects
@@ -4827,7 +4827,7 @@
 		(property "Reference" "SW7"
 			(at -2.54 -2.794 0)
 			(layer "F.SilkS")
-			(uuid "aa940a04-b394-49bb-b177-9a233b6dd74f")
+			(uuid "964ee602-9e9c-49ea-b478-04d3e6b76692")
 			(effects
 				(font
 					(size 1 1)
@@ -4838,7 +4838,7 @@
 		(property "Value" "SW_Push"
 			(at -4.955 0 0)
 			(layer "F.Fab")
-			(uuid "0c0a59dc-46fc-4f52-b73e-8d994735b76f")
+			(uuid "65ef8cf9-8006-41a0-b054-ee107d1a4d9c")
 			(effects
 				(font
 					(size 1 1)
@@ -4851,7 +4851,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "062bec49-072f-4b82-b571-9c62d4f06fd0")
+			(uuid "e4c62ba5-4f09-4eff-be48-79ce291448f5")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4864,7 +4864,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "822b1e64-ad65-439c-a578-1ca6e5789d55")
+			(uuid "75572b14-713b-4396-9793-a92c2270bb49")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7173,7 +7173,7 @@
 			(net 34 "ROW0")
 			(pinfunction "GPIO0")
 			(pintype "bidirectional")
-			(uuid "6d86b246-2b53-4f61-9c86-f7111de0457f")
+			(uuid "fc21e08b-e887-4558-bda5-c1e4f34e46b5")
 		)
 		(pad "2" smd roundrect
 			(at -9.69 -21.59)
@@ -7194,7 +7194,7 @@
 			(net 14 "ROW1")
 			(pinfunction "GPIO1")
 			(pintype "bidirectional")
-			(uuid "e32a382e-97ab-4c1b-978a-c90f82d39715")
+			(uuid "6ba82f03-f7f4-4c53-9da1-de0762afca65")
 		)
 		(pad "3" smd custom
 			(at -9.69 -19.05)
@@ -7270,7 +7270,7 @@
 					(fill yes)
 				)
 			)
-			(uuid "ee744702-1105-4246-9a7c-e80697756f15")
+			(uuid "d019c509-42db-4c9f-b13f-6c6bcbcb88b7")
 		)
 		(pad "4" smd roundrect
 			(at -9.69 -16.51)
@@ -7291,7 +7291,7 @@
 			(net 12 "ROW2")
 			(pinfunction "GPIO2")
 			(pintype "bidirectional")
-			(uuid "92d3a136-8f37-4cee-b70f-de84c823bfbf")
+			(uuid "3dc72182-ed25-4af8-b6c7-fcbbfb5eb16e")
 		)
 		(pad "5" smd roundrect
 			(at -9.69 -13.97)
@@ -7312,7 +7312,7 @@
 			(net 13 "COL0")
 			(pinfunction "GPIO3")
 			(pintype "bidirectional")
-			(uuid "e3016d8c-054c-4e0f-8a03-737b9f193e7d")
+			(uuid "4d44e809-0dd1-4d4f-b6ea-6f33ec5e397f")
 		)
 		(pad "6" smd roundrect
 			(at -9.69 -11.43)
@@ -7333,7 +7333,7 @@
 			(net 27 "COL1")
 			(pinfunction "GPIO4")
 			(pintype "bidirectional")
-			(uuid "7ea0aa41-bb6c-4838-a7bb-ad1cc9b0fdfe")
+			(uuid "411549d2-456c-4648-a1c1-38a79d846426")
 		)
 		(pad "7" smd roundrect
 			(at -9.69 -8.89)
@@ -7354,7 +7354,7 @@
 			(net 19 "COL2")
 			(pinfunction "GPIO5")
 			(pintype "bidirectional")
-			(uuid "55aeaa43-bea0-400a-a70b-e0472a4f458f")
+			(uuid "ee8da17d-f5f4-44aa-8e87-a16ae9a6056d")
 		)
 		(pad "8" smd custom
 			(at -9.69 -6.35)
@@ -7430,7 +7430,7 @@
 					(fill yes)
 				)
 			)
-			(uuid "3e85f184-dbde-4694-8cc2-57e22249d30a")
+			(uuid "4f30fc26-8501-47c8-92c1-17698c3ae485")
 		)
 		(pad "9" smd roundrect
 			(at -9.69 -3.81)
@@ -7451,7 +7451,7 @@
 			(net 6 "COL3")
 			(pinfunction "GPIO6")
 			(pintype "bidirectional")
-			(uuid "fff28b0f-de4e-4e38-ba7c-a24ccf695cf8")
+			(uuid "bd9efe14-8209-4331-ac37-1629e6ad8c63")
 		)
 		(pad "10" smd roundrect
 			(at -9.69 -1.27)
@@ -7472,7 +7472,7 @@
 			(net 16 "COL4")
 			(pinfunction "GPIO7")
 			(pintype "bidirectional")
-			(uuid "fb14cc32-e23a-4a3a-a645-bdc3ce0c2a3c")
+			(uuid "a429d722-3f5d-4149-8390-e8f8f04ecb01")
 		)
 		(pad "11" smd roundrect
 			(at -9.69 1.27)
@@ -7493,7 +7493,7 @@
 			(net 3 "REC_A1")
 			(pinfunction "GPIO8")
 			(pintype "bidirectional")
-			(uuid "2e01f201-9932-4cbc-a2b4-000c127eed1b")
+			(uuid "c535b21a-d590-4ddd-864b-251f17b12224")
 		)
 		(pad "12" smd roundrect
 			(at -9.69 3.81)
@@ -7514,7 +7514,7 @@
 			(net 18 "REC_A2")
 			(pinfunction "GPIO9")
 			(pintype "bidirectional")
-			(uuid "32814cc3-ef5d-437f-801f-61bf98d32a59")
+			(uuid "8c144d02-5db5-4b30-bd6b-e5de9b89f51a")
 		)
 		(pad "13" smd custom
 			(at -9.69 6.35)
@@ -7590,7 +7590,7 @@
 					(fill yes)
 				)
 			)
-			(uuid "6ab7f9a8-1f91-4d44-9753-b51534d8d8f4")
+			(uuid "247d3b38-16fe-461e-9033-b991cefb88fc")
 		)
 		(pad "14" smd roundrect
 			(at -9.69 8.89)
@@ -7611,7 +7611,7 @@
 			(net 30 "REC_B1")
 			(pinfunction "GPIO10")
 			(pintype "bidirectional")
-			(uuid "a9c6a32b-da02-4fac-beb3-94eae5d9e131")
+			(uuid "356a9e1e-444f-48f1-a459-416399911ca2")
 		)
 		(pad "15" smd roundrect
 			(at -9.69 11.43)
@@ -7632,7 +7632,7 @@
 			(net 4 "REC_B2")
 			(pinfunction "GPIO11")
 			(pintype "bidirectional")
-			(uuid "fbeb4153-a81c-4e40-bd3b-a176a439c8da")
+			(uuid "e8b194bf-bf0b-4a57-9827-55d00895c87a")
 		)
 		(pad "16" smd roundrect
 			(at -9.69 13.97)
@@ -7653,7 +7653,7 @@
 			(net 31 "ARGB_DATA")
 			(pinfunction "GPIO12")
 			(pintype "bidirectional")
-			(uuid "3542fcaf-ad4e-467f-9c3d-002519e002c7")
+			(uuid "a2685c8d-a91c-4d93-bb63-3e27b18ad096")
 		)
 		(pad "17" smd roundrect
 			(at -9.69 16.51)
@@ -7674,7 +7674,7 @@
 			(net 17 "unconnected-(A1-GPIO13-Pad17)")
 			(pinfunction "GPIO13")
 			(pintype "bidirectional+no_connect")
-			(uuid "9e6f9f66-5cbe-4461-95dc-5723ff38c3c6")
+			(uuid "f42056b1-350a-4365-8757-ecbad6e3ae2a")
 		)
 		(pad "18" smd custom
 			(at -9.69 19.05)
@@ -7750,7 +7750,7 @@
 					(fill yes)
 				)
 			)
-			(uuid "2e54bba2-ecc7-450d-b97f-8bab4bf9cb57")
+			(uuid "0685b2dc-9fa1-4515-a225-06df4cdf4bc2")
 		)
 		(pad "19" smd roundrect
 			(at -9.69 21.59)
@@ -7771,7 +7771,7 @@
 			(net 32 "OLED_SDA")
 			(pinfunction "GPIO14")
 			(pintype "bidirectional")
-			(uuid "46d54e61-7f71-4004-a564-659e86bd79a6")
+			(uuid "ed65cd32-d724-460c-b768-d816a7797991")
 		)
 		(pad "20" smd roundrect
 			(at -9.69 24.13)
@@ -7792,7 +7792,7 @@
 			(net 26 "OLED_SCL")
 			(pinfunction "GPIO15")
 			(pintype "bidirectional")
-			(uuid "90ebe5e5-bf42-40c0-b3d7-a98e35e53ba3")
+			(uuid "efe950bd-b594-459b-8015-a4169066b2e1")
 		)
 		(pad "21" thru_hole circle
 			(at 8.89 24.13)
@@ -7813,7 +7813,7 @@
 			(net 11 "unconnected-(A1-GPIO16-Pad21)")
 			(pinfunction "GPIO16")
 			(pintype "bidirectional+no_connect")
-			(uuid "f5b685c1-7f78-46aa-b14d-ec7269964336")
+			(uuid "ceedee7c-d445-4ee8-b7a3-cd086ba9ab3a")
 		)
 		(pad "22" thru_hole circle
 			(at 8.89 21.59)
@@ -7834,7 +7834,7 @@
 			(net 22 "unconnected-(A1-GPIO17-Pad22)")
 			(pinfunction "GPIO17")
 			(pintype "bidirectional+no_connect")
-			(uuid "250bae45-1c97-4358-8a60-486c77ef44fa")
+			(uuid "ff6f71e0-fa44-4f92-9402-0bf9786590b0")
 		)
 		(pad "23" thru_hole custom
 			(at 8.89 19.05)
@@ -7910,7 +7910,7 @@
 					(fill yes)
 				)
 			)
-			(uuid "5a02b556-12d8-4989-be5d-d536a6437e56")
+			(uuid "7fff0ea1-b4f2-481c-a5c2-8328cdb43f54")
 		)
 		(pad "24" thru_hole circle
 			(at 8.89 16.51)
@@ -7931,7 +7931,7 @@
 			(net 10 "unconnected-(A1-GPIO18-Pad24)")
 			(pinfunction "GPIO18")
 			(pintype "bidirectional+no_connect")
-			(uuid "9a700cb4-6201-41f4-a3bb-845ce9ea87f5")
+			(uuid "21ce8b79-3aad-4043-8a2e-654ea3396d94")
 		)
 		(pad "25" thru_hole circle
 			(at 8.89 13.97)
@@ -7952,7 +7952,7 @@
 			(net 24 "unconnected-(A1-GPIO19-Pad25)_1")
 			(pinfunction "GPIO19")
 			(pintype "bidirectional+no_connect")
-			(uuid "a8fe86c1-029a-42d2-9fd9-e542c352877e")
+			(uuid "97dcdedb-24da-4065-9100-c9df87f99364")
 		)
 		(pad "26" thru_hole circle
 			(at 8.89 11.43)
@@ -7973,7 +7973,7 @@
 			(net 2 "unconnected-(A1-GPIO20-Pad26)")
 			(pinfunction "GPIO20")
 			(pintype "bidirectional+no_connect")
-			(uuid "9a78f9e5-744e-41c0-82ce-08c24619f8c4")
+			(uuid "3e380023-0cd5-4569-8e66-c4517e7bca37")
 		)
 		(pad "27" thru_hole circle
 			(at 8.89 8.89)
@@ -7994,7 +7994,7 @@
 			(net 25 "unconnected-(A1-GPIO21-Pad27)_1")
 			(pinfunction "GPIO21")
 			(pintype "bidirectional+no_connect")
-			(uuid "9f4daaee-5f3d-4d2c-8a6e-5f8c2fce7eb5")
+			(uuid "ec736646-3c42-4952-b6b4-a526a8cb3501")
 		)
 		(pad "28" thru_hole custom
 			(at 8.89 6.35)
@@ -8070,7 +8070,7 @@
 					(fill yes)
 				)
 			)
-			(uuid "947943cf-3d59-46b2-987a-6979669d9f25")
+			(uuid "321ad134-1ad3-4361-8bd0-9d10861831c9")
 		)
 		(pad "29" thru_hole circle
 			(at 8.89 3.81)
@@ -8091,7 +8091,7 @@
 			(net 29 "unconnected-(A1-GPIO22-Pad29)")
 			(pinfunction "GPIO22")
 			(pintype "bidirectional+no_connect")
-			(uuid "9b5dc3c4-ec41-49ef-954a-99a3045b8e03")
+			(uuid "db913ede-bab7-427e-8219-9c98c513009f")
 		)
 		(pad "30" thru_hole circle
 			(at 8.89 1.27)
@@ -8112,7 +8112,7 @@
 			(net 20 "unconnected-(A1-RUN-Pad30)")
 			(pinfunction "RUN")
 			(pintype "passive+no_connect")
-			(uuid "501534d5-724a-45af-b9f0-9079ed81aa62")
+			(uuid "1fbfc08c-96d4-4dc6-ba4e-9194d76309ef")
 		)
 		(pad "31" thru_hole circle
 			(at 8.89 -1.27)
@@ -8133,7 +8133,7 @@
 			(net 7 "unconnected-(A1-GPIO26_ADC0-Pad31)")
 			(pinfunction "GPIO26_ADC0")
 			(pintype "bidirectional+no_connect")
-			(uuid "d19b58ff-8ee2-4cd7-b5d6-69b9b12989f9")
+			(uuid "fa93eb29-3a4f-4c4a-80ce-d15e50019c79")
 		)
 		(pad "32" thru_hole circle
 			(at 8.89 -3.81)
@@ -8154,7 +8154,7 @@
 			(net 15 "unconnected-(A1-GPIO27_ADC1-Pad32)")
 			(pinfunction "GPIO27_ADC1")
 			(pintype "bidirectional+no_connect")
-			(uuid "906edeae-4b98-4910-9a5a-c1d945368e82")
+			(uuid "4dd00036-dd06-410f-9c90-0d0330d11950")
 		)
 		(pad "33" thru_hole custom
 			(at 8.89 -6.35)
@@ -8230,7 +8230,7 @@
 					(fill yes)
 				)
 			)
-			(uuid "c29a122d-b751-4b60-b5e0-3c247505d195")
+			(uuid "85035b68-5d3b-430f-8c15-3caf71d39bb9")
 		)
 		(pad "34" thru_hole circle
 			(at 8.89 -8.89)
@@ -8251,7 +8251,7 @@
 			(net 9 "unconnected-(A1-GPIO28_ADC2-Pad34)")
 			(pinfunction "GPIO28_ADC2")
 			(pintype "bidirectional+no_connect")
-			(uuid "c56f8a3c-36fb-49c1-8919-16a7cd2785b0")
+			(uuid "dc5a09df-39f6-4bec-a403-cea80dbb9a1c")
 		)
 		(pad "35" thru_hole circle
 			(at 8.89 -11.43)
@@ -8272,7 +8272,7 @@
 			(net 23 "unconnected-(A1-ADC_VREF-Pad35)")
 			(pinfunction "ADC_VREF")
 			(pintype "power_in+no_connect")
-			(uuid "b4a9b873-53e0-413f-81a4-1fee5c6b5185")
+			(uuid "f3414ba0-9216-4c5a-829f-04ab08a9334a")
 		)
 		(pad "36" thru_hole circle
 			(at 8.89 -13.97)
@@ -8293,7 +8293,7 @@
 			(net 33 "unconnected-(A1-3V3-Pad36)_1")
 			(pinfunction "3V3")
 			(pintype "power_out+no_connect")
-			(uuid "09d9c330-ecd0-4cf5-89e1-1cb806b424a2")
+			(uuid "3bf61773-5214-424f-a4dc-8e5d0367c529")
 		)
 		(pad "37" thru_hole circle
 			(at 8.89 -16.51)
@@ -8314,7 +8314,7 @@
 			(net 1 "unconnected-(A1-3V3_EN-Pad37)")
 			(pinfunction "3V3_EN")
 			(pintype "passive+no_connect")
-			(uuid "ef099137-af15-423f-aaef-de424383caae")
+			(uuid "d4f06a46-0c94-4c63-93a3-62d04f16a45c")
 		)
 		(pad "38" thru_hole custom
 			(at 8.89 -19.05)
@@ -8390,7 +8390,7 @@
 					(fill yes)
 				)
 			)
-			(uuid "e2ba5baf-3eff-4689-98f3-51c7eff9457f")
+			(uuid "6736939d-b8a6-4a52-82c3-1d2f48118cac")
 		)
 		(pad "39" thru_hole circle
 			(at 8.89 -21.59)
@@ -8411,7 +8411,7 @@
 			(net 21 "unconnected-(A1-VSYS-Pad39)")
 			(pinfunction "VSYS")
 			(pintype "power_in+no_connect")
-			(uuid "aa4f680e-f05e-4b5a-a456-715b0d4001c9")
+			(uuid "cb286729-984a-4dac-808e-97481afb16c9")
 		)
 		(pad "40" thru_hole circle
 			(at 8.89 -24.13)
@@ -8432,7 +8432,7 @@
 			(net 5 "VCC")
 			(pinfunction "VBUS")
 			(pintype "power_out")
-			(uuid "9597d64c-06b1-42b9-9697-4e5d7491b230")
+			(uuid "2aa95078-7548-4363-9dc4-985bf449dca4")
 		)
 		(zone
 			(net 0)
@@ -9307,52 +9307,6 @@
 			)
 		)
 		(group ""
-			(uuid "080c740d-a92a-49a5-a29c-a11e2a809968")
-			(members "09d9c330-ecd0-4cf5-89e1-1cb806b424a2" "250bae45-1c97-4358-8a60-486c77ef44fa"
-				"2e01f201-9932-4cbc-a2b4-000c127eed1b" "2e54bba2-ecc7-450d-b97f-8bab4bf9cb57"
-				"32814cc3-ef5d-437f-801f-61bf98d32a59" "3542fcaf-ad4e-467f-9c3d-002519e002c7"
-				"358014bd-7b15-4b7f-b0e1-6c1eddcb03df" "3e85f184-dbde-4694-8cc2-57e22249d30a"
-				"46d54e61-7f71-4004-a564-659e86bd79a6" "4d6e28b2-8a82-493a-b684-9271a7b2452e"
-				"501534d5-724a-45af-b9f0-9079ed81aa62" "5034492f-c4b7-4322-8867-4f45332e1c39"
-				"55aeaa43-bea0-400a-a70b-e0472a4f458f" "5a02b556-12d8-4989-be5d-d536a6437e56"
-				"6ab7f9a8-1f91-4d44-9753-b51534d8d8f4" "6d86b246-2b53-4f61-9c86-f7111de0457f"
-				"75d4e6c9-b352-48fa-a5cb-75e2915dd4c3" "7ea0aa41-bb6c-4838-a7bb-ad1cc9b0fdfe"
-				"8d22b730-c018-4328-8404-b2145ae50457" "906edeae-4b98-4910-9a5a-c1d945368e82"
-				"90ebe5e5-bf42-40c0-b3d7-a98e35e53ba3" "92d3a136-8f37-4cee-b70f-de84c823bfbf"
-				"947943cf-3d59-46b2-987a-6979669d9f25" "9597d64c-06b1-42b9-9697-4e5d7491b230"
-				"9a700cb4-6201-41f4-a3bb-845ce9ea87f5" "9a78f9e5-744e-41c0-82ce-08c24619f8c4"
-				"9b5dc3c4-ec41-49ef-954a-99a3045b8e03" "9e6f9f66-5cbe-4461-95dc-5723ff38c3c6"
-				"9f4daaee-5f3d-4d2c-8a6e-5f8c2fce7eb5" "a8fe86c1-029a-42d2-9fd9-e542c352877e"
-				"a9c6a32b-da02-4fac-beb3-94eae5d9e131" "aa4f680e-f05e-4b5a-a456-715b0d4001c9"
-				"aa88852c-55ac-4298-a7c7-316ede0a45c9" "b4a9b873-53e0-413f-81a4-1fee5c6b5185"
-				"c29a122d-b751-4b60-b5e0-3c247505d195" "c56f8a3c-36fb-49c1-8919-16a7cd2785b0"
-				"d19b58ff-8ee2-4cd7-b5d6-69b9b12989f9" "e2ba5baf-3eff-4689-98f3-51c7eff9457f"
-				"e3016d8c-054c-4e0f-8a03-737b9f193e7d" "e32a382e-97ab-4c1b-978a-c90f82d39715"
-				"e815d31f-ed88-47c1-8349-eac2842548a5" "ea17a197-c345-4ec1-b1af-02c28521a814"
-				"ee744702-1105-4246-9a7c-e80697756f15" "ef099137-af15-423f-aaef-de424383caae"
-				"f5b685c1-7f78-46aa-b14d-ec7269964336" "fb14cc32-e23a-4a3a-a645-bdc3ce0c2a3c"
-				"fbeb4153-a81c-4e40-bd3b-a176a439c8da" "fff28b0f-de4e-4e38-ba7c-a24ccf695cf8"
-			)
-		)
-		(group ""
-			(uuid "ce27944a-6406-44a6-a32d-c095e64dc97b")
-			(members "061158ff-03d0-42e0-bdcb-69caadfd68d8" "084a3624-a4b8-4d11-89c1-dffbd1a2d27a"
-				"0e498a36-7944-4a8d-9b73-08c20f32402e" "1210d1b9-4e94-4a9f-8af5-f90286309a55"
-				"14e8c5c1-1b32-45a5-bba2-bc51e3b03aff" "166b48ad-069a-45be-aa50-45eb2e5e4ecb"
-				"4ff4b023-7b39-4901-b95d-b2cbd2305812" "58d544c9-b25f-4e46-ba22-b90f72a108bb"
-				"5bba9753-d765-430d-8060-259791c686a0" "662c3d8f-80e3-40a4-9ee5-2052b8853467"
-				"6e8a4f9c-dc7d-4911-934a-e7ef929f23bc" "759188b4-9434-47da-84b5-da10fc2fdd50"
-				"7a5a5cae-3613-4cec-849d-7cc3ded252de" "7cab4fc5-1952-4926-b7ca-e3d956245fa0"
-				"7ef5dcf8-d4ed-495a-bf8e-299445a17f8a" "8f1f9102-266d-4737-aff6-5ea8320629d7"
-				"98897d81-897f-4147-a157-240bf28e5d67" "9cd43913-5e1c-49c1-a2e2-2880e7fe4e70"
-				"9cd7ea6d-7d9d-4a8d-8efc-b619073b824f" "9f383c72-edaf-44dd-9810-24d9ac8d7c6c"
-				"a4244ca3-faf4-4ced-bffa-8034747dc680" "a569df4b-07a7-4970-ba91-d2a8037fbc20"
-				"aa57b36b-cbb0-4894-9c24-bbc69f9e5bd4" "afd1c8ee-05b0-4483-acd9-582cd8b80be7"
-				"b681146b-c265-464a-a32a-16bad65ba085" "be486314-a5f8-45fe-a6f8-0e7cef5d0f4e"
-				"d7474648-1a69-4a97-ae2f-b6c65880bad1" "dcbf3872-4671-4f97-b600-23d6b0046d59"
-			)
-		)
-		(group ""
 			(uuid "a8a3e993-4665-47d2-ad71-dc2d0ea18a46")
 			(members "0485025b-c323-49ba-84c2-b5c503d9fbfd" "04be1a19-7e8b-421e-8ac8-41789944170a"
 				"09d9c330-ecd0-4cf5-89e1-1cb806b424a2" "1127f61d-185d-4932-869f-fb6172a3f5ec"
@@ -9398,6 +9352,24 @@
 			)
 		)
 		(group ""
+			(uuid "ce27944a-6406-44a6-a32d-c095e64dc97b")
+			(members "061158ff-03d0-42e0-bdcb-69caadfd68d8" "084a3624-a4b8-4d11-89c1-dffbd1a2d27a"
+				"0e498a36-7944-4a8d-9b73-08c20f32402e" "1210d1b9-4e94-4a9f-8af5-f90286309a55"
+				"14e8c5c1-1b32-45a5-bba2-bc51e3b03aff" "166b48ad-069a-45be-aa50-45eb2e5e4ecb"
+				"4ff4b023-7b39-4901-b95d-b2cbd2305812" "58d544c9-b25f-4e46-ba22-b90f72a108bb"
+				"5bba9753-d765-430d-8060-259791c686a0" "662c3d8f-80e3-40a4-9ee5-2052b8853467"
+				"6e8a4f9c-dc7d-4911-934a-e7ef929f23bc" "759188b4-9434-47da-84b5-da10fc2fdd50"
+				"7a5a5cae-3613-4cec-849d-7cc3ded252de" "7cab4fc5-1952-4926-b7ca-e3d956245fa0"
+				"7ef5dcf8-d4ed-495a-bf8e-299445a17f8a" "8f1f9102-266d-4737-aff6-5ea8320629d7"
+				"98897d81-897f-4147-a157-240bf28e5d67" "9cd43913-5e1c-49c1-a2e2-2880e7fe4e70"
+				"9cd7ea6d-7d9d-4a8d-8efc-b619073b824f" "9f383c72-edaf-44dd-9810-24d9ac8d7c6c"
+				"a4244ca3-faf4-4ced-bffa-8034747dc680" "a569df4b-07a7-4970-ba91-d2a8037fbc20"
+				"aa57b36b-cbb0-4894-9c24-bbc69f9e5bd4" "afd1c8ee-05b0-4483-acd9-582cd8b80be7"
+				"b681146b-c265-464a-a32a-16bad65ba085" "be486314-a5f8-45fe-a6f8-0e7cef5d0f4e"
+				"d7474648-1a69-4a97-ae2f-b6c65880bad1" "dcbf3872-4671-4f97-b600-23d6b0046d59"
+			)
+		)
+		(group ""
 			(uuid "aef9a572-3a95-42b8-80b9-b4210f97a439")
 			(members "0db2cdef-5d52-44a4-b6bb-015cbc59f342" "10360150-7f7c-4eb3-8b60-53bf5bf6a304"
 				"1c2c1d03-fb6e-491e-9aeb-248e89d53223" "2c1abc88-3eab-40a2-a10d-013b9bade79a"
@@ -9409,6 +9381,14 @@
 				"c28ac463-cd36-4c58-8d96-de66fb406666" "c9ef1436-d1db-49ba-8f89-86087a9250a1"
 				"d9915651-3b57-471b-8987-b9fca186a34e" "e0927f42-16b5-49a7-bd35-3a5963348381"
 				"f7d70d2b-5335-4b7f-8a28-f7962e15b8f7" "fec6b676-bf8b-43de-98a0-26dccd1f35d8"
+			)
+		)
+		(group ""
+			(uuid "080c740d-a92a-49a5-a29c-a11e2a809968")
+			(members "358014bd-7b15-4b7f-b0e1-6c1eddcb03df" "4d6e28b2-8a82-493a-b684-9271a7b2452e"
+				"5034492f-c4b7-4322-8867-4f45332e1c39" "75d4e6c9-b352-48fa-a5cb-75e2915dd4c3"
+				"8d22b730-c018-4328-8404-b2145ae50457" "aa88852c-55ac-4298-a7c7-316ede0a45c9"
+				"e815d31f-ed88-47c1-8349-eac2842548a5" "ea17a197-c345-4ec1-b1af-02c28521a814"
 			)
 		)
 		(group ""
@@ -10312,7 +10292,7 @@
 			(drill oval 2.8 1.5)
 			(layers "*.Cu" "*.Mask")
 			(remove_unused_layers no)
-			(uuid "bbcbf0b7-d51d-4a2e-886c-b1d21aa84518")
+			(uuid "94407850-2000-409d-89a8-e7d8a20ac25f")
 		)
 		(pad "S1" thru_hole circle
 			(at 14.5 5)
@@ -12268,7 +12248,7 @@
 		(property "Reference" "D20"
 			(at 0.6 -3.1 0)
 			(layer "F.SilkS")
-			(uuid "c608924b-3389-4749-af9b-3bdd5a67fe8b")
+			(uuid "784b2b6e-f223-4e38-970f-aed422d89d97")
 			(effects
 				(font
 					(size 1 1)
@@ -12280,7 +12260,7 @@
 		(property "Value" "SK6812MINI-E"
 			(at 0 3.370001 0)
 			(layer "F.Fab")
-			(uuid "a765daf8-29c7-4ebf-9269-c549acf8c082")
+			(uuid "5aa237ca-b55d-4905-9a2b-71195ce17cf4")
 			(effects
 				(font
 					(size 1 1)
@@ -12292,7 +12272,7 @@
 			(at 0.000001 -0.002842 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "11657dde-776b-4226-abb2-986d634ea222")
+			(uuid "8acb189b-438f-493a-9c6c-30a4b3ec6de7")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12304,7 +12284,7 @@
 			(at 0.000001 -0.002842 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "6fb924fe-9015-40ff-b91a-b71cd3ea2749")
+			(uuid "b68ea13d-ff1b-4134-a932-707df09e10aa")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12936,9 +12916,9 @@
 		(descr "Add-on for regular MX-footprints with SK6812 MINI-E")
 		(tags "cherry MX SK6812 Mini-E rearmount rear mount led rgb backlight")
 		(property "Reference" "D21"
-			(at 0.6 -3.1 0)
+			(at 5.102501 -0.102842 90)
 			(layer "F.SilkS")
-			(uuid "450315fd-32f0-42ca-b973-7f6745861db7")
+			(uuid "6a6e8424-eced-4a8a-8d68-c0441882f366")
 			(effects
 				(font
 					(size 1 1)
@@ -12950,7 +12930,7 @@
 		(property "Value" "SK6812MINI-E"
 			(at 0 3.370001 0)
 			(layer "F.Fab")
-			(uuid "420f8f87-8bed-4c49-8f84-1ce1346e9458")
+			(uuid "afa1af8f-b879-41c7-9e6c-f725458f8f0c")
 			(effects
 				(font
 					(size 1 1)
@@ -12962,7 +12942,7 @@
 			(at 0.000001 -0.002842 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "229c12e5-a6ea-4922-b092-8c693fee3609")
+			(uuid "fb29deee-82d0-4422-9c41-3d0134d544e7")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12974,7 +12954,7 @@
 			(at 0.000001 -0.002842 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "a5b9e636-e529-4e9f-8418-df5a1ea4506f")
+			(uuid "7b6ead69-1adf-44ff-953e-9d8f0b5ff0e0")
 			(effects
 				(font
 					(size 1.27 1.27)

@@ -4623,7 +4623,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Hackpad:SK6812MINI-E_fixed"
+		(property "Footprint" "HackPad:SK6812MINI-E_fixed"
 			(at 208.28 127 0)
 			(effects
 				(font
@@ -4856,7 +4856,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Hackpad:SK6812MINI-E_fixed"
+		(property "Footprint" "HackPad:SK6812MINI-E_fixed"
 			(at 243.84 109.22 0)
 			(effects
 				(font
@@ -4934,7 +4934,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Hackpad:SK6812MINI-E_fixed"
+		(property "Footprint" "HackPad:SK6812MINI-E_fixed"
 			(at 243.84 127 0)
 			(effects
 				(font
@@ -5173,7 +5173,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Hackpad:SK6812MINI-E_fixed"
+		(property "Footprint" "HackPad:SK6812MINI-E_fixed"
 			(at 226.06 127 0)
 			(effects
 				(font
@@ -5319,7 +5319,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Hackpad:RotaryEncoder_Alps_EC11E-Switch_Vertical_H20mm"
+		(property "Footprint" "HackPad:RotaryEncoder_Alps_EC11E-Switch_Vertical_H20mm"
 			(at 84.074 73.66 0)
 			(effects
 				(font
@@ -5398,7 +5398,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Hackpad:SK6812MINI-E_fixed"
+		(property "Footprint" "HackPad:SK6812MINI-E_fixed"
 			(at 226.06 144.78 0)
 			(effects
 				(font
@@ -5632,7 +5632,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Hackpad:RotaryEncoder_Alps_EC11E-Switch_Vertical_H20mm"
+		(property "Footprint" "HackPad:RotaryEncoder_Alps_EC11E-Switch_Vertical_H20mm"
 			(at 45.974 73.66 0)
 			(effects
 				(font
@@ -5799,7 +5799,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Hackpad:SK6812MINI-E_fixed"
+		(property "Footprint" "HackPad:SK6812MINI-E_fixed"
 			(at 261.62 144.78 0)
 			(effects
 				(font
@@ -6795,7 +6795,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Hackpad:SK6812MINI-E_fixed"
+		(property "Footprint" "HackPad:SK6812MINI-E_fixed"
 			(at 243.84 144.78 0)
 			(effects
 				(font
@@ -7609,7 +7609,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Hackpad:SK6812MINI-E_fixed"
+		(property "Footprint" "HackPad:SK6812MINI-E_fixed"
 			(at 226.06 109.22 0)
 			(effects
 				(font
@@ -7687,7 +7687,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Hackpad:SK6812MINI-E_fixed"
+		(property "Footprint" "HackPad:SK6812MINI-E_fixed"
 			(at 208.28 144.78 0)
 			(effects
 				(font
@@ -8096,7 +8096,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Hackpad:SK6812MINI-E_fixed"
+		(property "Footprint" "HackPad:SK6812MINI-E_fixed"
 			(at 261.62 109.22 0)
 			(effects
 				(font
@@ -8262,7 +8262,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Hackpad:SK6812MINI-E_fixed"
+		(property "Footprint" "HackPad:SK6812MINI-E_fixed"
 			(at 261.62 127 0)
 			(effects
 				(font
@@ -8408,7 +8408,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Hackpad:SK6812MINI-E_fixed"
+		(property "Footprint" "HackPad:SK6812MINI-E_fixed"
 			(at 208.28 109.22 0)
 			(effects
 				(font
